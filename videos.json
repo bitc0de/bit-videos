@@ -1,1 +1,222 @@
-
+[
+  {
+    "script": "Jobs",
+    "url": "https://www.youtube.com/embed/MsLe7XJ9S_I"
+  },
+  {
+    "script": "Gangs",
+    "url": "https://www.youtube.com/embed/cP-kYkLrDdw"
+  },
+  {
+    "script": "Motels",
+    "url": "https://www.youtube.com/embed/7pmUY7C4xYY"
+  },
+  {
+    "script": "Clothing Shop v.2",
+    "url": "https://www.youtube.com/embed/Esr3GZt7cgc"
+  },
+  {
+    "script": "Creator",
+    "url": "https://www.youtube.com/embed/D7T7LGslpmk"
+  },
+  {
+    "script": "Business 2.0",
+    "url": "https://www.youtube.com/embed/UbmhSF7Atro"
+  },
+  {
+    "script": "Garage",
+    "url": "https://www.youtube.com/embed/CVG5xfVeeXs"
+  },
+  {
+    "script": "Vehicle Control",
+    "url": "https://www.youtube.com/embed/rP81YHugjkI"
+  },
+  {
+    "script": "Pets",
+    "url": "https://www.youtube.com/embed/P9Nlfg9r_mw"
+  },
+  {
+    "script": "Police MDT",
+    "url": "https://www.youtube.com/embed/g-5W9L7QSDk"
+  },
+  {
+    "script": "BB SellCar",
+    "url": "https://www.youtube.com/embed/JBDDViOZ7Yk"
+  },
+  {
+    "script": "Fuel",
+    "url": "https://www.youtube.com/embed/jrbWOq73RPw"
+  },
+  {
+    "script": "Spectate",
+    "url": "https://www.youtube.com/embed/R-cFxwJyDCM"
+  },
+  {
+    "script": "Cryptocurrencies",
+    "url": "https://www.youtube.com/embed/qK_A3I0Zmag"
+  },
+  {
+    "script": "Driving School",
+    "url": "https://www.youtube.com/embed/NHwptC9UX8w"
+  },
+  {
+    "script": "PauseMenu",
+    "url": "https://www.youtube.com/embed/_KVR3KQ8750"
+  },
+  {
+    "script": "Bank",
+    "url": "https://www.youtube.com/embed/6FivsNkUyC8"
+  },
+  {
+    "script": "Dealership",
+    "url": "https://www.youtube.com/embed/aK5pskWduhM"
+  },
+  {
+    "script": "HUD",
+    "url": "https://www.youtube.com/embed/ykMHnKKiDpg"
+  },
+  {
+    "script": "Battlepass 3.0",
+    "url": "https://www.youtube.com/embed/2QIxxRoOric"
+  },
+  {
+    "script": "Investments",
+    "url": "https://www.youtube.com/embed/LHiiPnUn52M"
+  },
+  {
+    "script": "Coins System [One Pay]",
+    "url": "https://www.youtube.com/embed/1LWlScXt-tI"
+  },
+  {
+    "script": "Coins System [Subscription]",
+    "url": "https://www.youtube.com/embed/1LWlScXt-tI"
+  },
+  {
+    "script": "Inventory",
+    "url": "https://www.youtube.com/embed/JzJjV9yjokU"
+  },
+  {
+    "script": "Clothing Shop",
+    "url": "https://www.youtube.com/embed/xr8boSjG3fI"
+  },
+  {
+    "script": "Report System",
+    "url": "https://www.youtube.com/embed/xl3o-9G8ans"
+  },
+  {
+    "script": "Weapon Shop",
+    "url": "https://www.youtube.com/embed/ZyV_buUXrKk"
+  },
+  {
+    "script": "Car Radio",
+    "url": "https://www.youtube.com/embed/Ts0wdH54Yro"
+  },
+  {
+    "script": "Car Rental",
+    "url": "https://www.youtube.com/embed/Sll-CDgQ4mM"
+  },
+  {
+    "script": "Stores",
+    "url": "https://www.youtube.com/embed/OI3nQMX6nDk"
+  },
+  {
+    "script": "Scoreboard",
+    "url": "https://www.youtube.com/embed/fCIcDshX9hg"
+  },
+  {
+    "script": "Advanced Tasks",
+    "url": "https://www.youtube.com/embed/uGXeIygjufY"
+  },
+  {
+    "script": "Loading",
+    "url": "https://www.youtube.com/embed/4qgB3oCk-Ik"
+  },
+  {
+    "script": "Pause Menu v2",
+    "url": "https://www.youtube.com/embed/raKkBroT1fg"
+  },
+  {
+    "script": "Rewards",
+    "url": "https://www.youtube.com/embed/FZjg67zNDH0"
+  },
+  {
+    "script": "Used Cars",
+    "url": "https://www.youtube.com/embed/seEQJcq9RzM"
+  },
+  {
+    "script": "Treasure Hunting",
+    "url": "https://www.youtube.com/embed/3ggTp9LhGgQ"
+  },
+  {
+    "script": "Garbage job",
+    "url": "https://www.youtube.com/embed/KmNKAytwaBQ"
+  },
+  {
+    "script": "Boat School",
+    "url": "https://www.youtube.com/embed/BQkm3vjvNBE"
+  },
+  {
+    "script": "Flight School",
+    "url": "https://www.youtube.com/embed/BQkm3vjvNBE"
+  },
+  {
+    "script": "Party",
+    "url": "https://www.youtube.com/embed/AbiSrZPwcDA"
+  },
+  {
+    "script": "Craft",
+    "url": "https://www.youtube.com/embed/6IoXMk6eyVY"
+  },
+  {
+    "script": "Whitelist",
+    "url": "https://www.youtube.com/embed/B0u7_XGrf1I"
+  },
+  {
+    "script": "Interactive City",
+    "url": "https://www.youtube.com/embed/lKHRj7neXOQ"
+  },
+  {
+    "script": "Radio",
+    "url": "https://www.youtube.com/embed/2vgv4QKdij4"
+  },
+  {
+    "script": "Case Opening",
+    "url": "https://www.youtube.com/embed/ULgz8hN2hn0"
+  },
+  {
+    "script": "Unlock",
+    "url": "https://www.youtube.com/embed/XLGbt4NL_yc"
+  },
+  {
+    "script": "Licenses",
+    "url": "https://www.youtube.com/embed/woR-jQwflmg"
+  },
+  {
+    "script": "Diseases",
+    "url": "https://www.youtube.com/embed/ujW_knML35E"
+  },
+  {
+    "script": "Menu",
+    "url": "https://www.youtube.com/embed/ELidIkYmxSk"
+  },
+  {
+    "script": "Blips",
+    "url": "https://www.youtube.com/embed/y1AVnk6Y1DY"
+  },
+  {
+    "script": "Drones",
+    "url": "https://www.youtube.com/embed/2-dQT4uHbgs"
+  },
+  {
+    "script": "Spawn",
+    "url": "https://www.youtube.com/embed/cwyADkK-opM"
+  },
+  {
+    "script": "Ghosts",
+    "url": "https://www.youtube.com/embed/3W9HCWorHBg"
+  },
+  {
+    "script": "Drugs Creator",
+    "url": "https://www.youtube.com/embed/ix_r1ejZjzc"
+  }
+]
